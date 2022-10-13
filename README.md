@@ -22,3 +22,7 @@ Understanding and accurately predict protein stability is a fundamental problem 
 Its applications include enzyme engineering for addressing the world’s challenges in sustainability, carbon neutrality and more. 
 
 Improvements to enzyme stability could lower costs and increase the speed scientists can iterate on concepts.
+
+**In this challenge competition, you will try to develop machine learning models that match the radiologists' performance in detecting and localizing fractures to the seven vertebrae that comprise the cervical spine.**
+
+-----
