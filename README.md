@@ -26,3 +26,13 @@ Improvements to enzyme stability could lower costs and increase the speed scient
 **In this challenge competition, you will try to develop machine learning models that match the radiologists' performance in detecting and localizing fractures to the seven vertebrae that comprise the cervical spine.**
 
 -----
+
+## Evaluation
+
+Submissions are evaluated on the Spearman's correlation coefficient between the ground truth and the predictions.
+
+- Spearman's correlation coefficient
+
+https://en.wikipedia.org/wiki/Spearman%27s_rank_correlation_coefficient
+
+-----
